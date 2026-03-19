@@ -29,7 +29,7 @@ DATASETS = [
     {
         "group": "Reviewer-generated",
         "method": "No Hint",
-        "path": "/home/fadiba/eval_paper/output/no_hint_reviewer_clean.csv",
+        "path": "../output/no_hint_reviewer_clean.csv",
         "column": "Question",
         "has_ref": True,
         "ref_col": "Reference",
@@ -37,7 +37,7 @@ DATASETS = [
     {
         "group": "Reviewer-generated",
         "method": "Complex Context",
-        "path": "/home/fadiba/eval_paper/output/complex_context_reviewer_clean.csv",
+        "path": "../output/complex_context_reviewer_clean.csv",
         "column": "Question",
         "has_ref": True,
         "ref_col": "Reference",
