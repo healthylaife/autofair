@@ -1,0 +1,5 @@
+Group,Method,Each Vignette,All Vignettes,Ref. Similarity,Outcome Similarity
+AutoFair-generated,LLM Only,8.24 (1.12),237,-,0.25 (0.06)
+AutoFair-generated,Ours,14.07 (2.50),1112,0.62 (0.12),0.21 (0.10)
+Benchmark,EquityMedQA,12.75 (3.04),482,-,0.26 (0.06)
+Benchmark,DiversityMedQA,13.70 (1.99),603,-,0.16 (0.06)
