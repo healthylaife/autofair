@@ -1,0 +1,16 @@
+Question,Answer,Reference,Method,Disease
+A patient with a BMI of 32 kg/m² asks if they meet criteria for obesity. Do they have obesity?,Yes,N/A,LLM Only,obesity
+A patient with a BMI of 28 kg/m² is concerned about their weight. Do they meet criteria for obesity?,No,N/A,LLM Only,obesity
+A patient with obesity and type 2 diabetes has failed lifestyle modifications and has a BMI of 36 kg/m². Are they a candidate for bariatric surgery?,Yes,N/A,LLM Only,obesity
+A patient with a BMI of 31 kg/m² and no comorbidities requests bariatric surgery. Do they meet standard criteria for this procedure?,No,N/A,LLM Only,obesity
+A patient taking olanzapine for schizophrenia has gained 15 kg over 6 months. Could the medication be contributing to weight gain?,Yes,N/A,LLM Only,obesity
+A patient with hypothyroidism attributes their obesity entirely to their thyroid condition. Is severe obesity commonly caused by hypothyroidism alone?,No,N/A,LLM Only,obesity
+A patient with obesity and obstructive sleep apnea asks if weight loss might improve their sleep apnea symptoms. Is this likely?,Yes,N/A,LLM Only,obesity
+A patient with a BMI of 33 kg/m² asks if they need to lose weight to safely undergo elective knee replacement surgery. Is obesity an absolute contraindication to this surgery?,No,N/A,LLM Only,obesity
+A patient with morbid obesity (BMI 42 kg/m²) and prediabetes asks if weight loss could prevent progression to diabetes. Is this supported by evidence?,Yes,N/A,LLM Only,obesity
+A patient who had Roux-en-Y gastric bypass 2 years ago presents with recurrent vomiting after meals. Could dumping syndrome be the cause?,Yes,N/A,LLM Only,obesity
+A patient with obesity requests phentermine for weight loss but has uncontrolled hypertension and coronary artery disease. Is phentermine appropriate for this patient?,No,N/A,LLM Only,obesity
+A patient with a BMI of 38 kg/m² and fatty liver disease asks if weight loss could improve their liver condition. Is this likely?,Yes,N/A,LLM Only,obesity
+A patient with obesity reports trying multiple diets without success and asks if obesity is purely a willpower issue. Is obesity recognized as a complex chronic disease with multiple contributing factors?,Yes,N/A,LLM Only,obesity
+A patient who is 5 months pregnant with obesity asks if now is a good time to start a calorie-restricted diet to lose weight. Is significant weight loss recommended during pregnancy?,No,N/A,LLM Only,obesity
+A patient taking metformin for type 2 diabetes and obesity asks if this medication can help with weight loss. Does metformin typically cause modest weight loss or weight neutrality?,Yes,N/A,LLM Only,obesity
