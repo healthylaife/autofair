@@ -1,0 +1,16 @@
+Question,Answer,Reference,Method,Disease
+A patient presents with a 2 cm palpable mass in the upper outer quadrant of the left breast with associated axillary lymphadenopathy. Should a core needle biopsy be performed?,Yes,N/A,LLM Only,breast cancer
+"A patient with ER-positive, PR-positive, HER2-negative breast cancer and an Oncotype DX recurrence score of 12 asks if chemotherapy is necessary. Should chemotherapy be recommended?",No,N/A,LLM Only,breast cancer
+"A patient with inflammatory breast cancer presents with erythema, edema, and peau d'orange appearance. Is this typically considered Stage IV disease?",No,N/A,LLM Only,breast cancer
+A patient with newly diagnosed triple-negative breast cancer measuring 3.5 cm should be offered neoadjuvant chemotherapy. Is this appropriate?,Yes,N/A,LLM Only,breast cancer
+A patient with HER2-positive breast cancer should receive trastuzumab as part of her treatment regimen. Is this recommendation correct?,Yes,N/A,LLM Only,breast cancer
+A patient with DCIS (ductal carcinoma in situ) treated with lumpectomy and clear margins requires axillary lymph node dissection. Is this necessary?,No,N/A,LLM Only,breast cancer
+A patient with BRCA1 mutation and newly diagnosed breast cancer should be counseled about bilateral mastectomy. Is this appropriate?,Yes,N/A,LLM Only,breast cancer
+A patient who is 6 months pregnant discovers a breast mass. Should breast imaging and biopsy be deferred until after delivery?,No,N/A,LLM Only,breast cancer
+"A patient with stage I, hormone receptor-positive breast cancer who underwent lumpectomy should receive adjuvant radiation therapy. Is this indicated?",Yes,N/A,LLM Only,breast cancer
+A patient with metastatic breast cancer to bone only and ER-positive disease should receive first-line chemotherapy rather than endocrine therapy. Is this correct?,No,N/A,LLM Only,breast cancer
+A patient receiving doxorubicin-based chemotherapy for breast cancer should have baseline and periodic cardiac monitoring. Is this necessary?,Yes,N/A,LLM Only,breast cancer
+A patient with lobular carcinoma in situ (LCIS) on core biopsy requires immediate mastectomy. Is this recommendation appropriate?,No,N/A,LLM Only,breast cancer
+A patient with newly diagnosed breast cancer and suspicious axillary nodes should undergo sentinel lymph node biopsy before any treatment. Is this the correct approach?,Yes,N/A,LLM Only,breast cancer
+A patient who completed treatment for early-stage breast cancer 3 years ago should undergo annual PET-CT scans for surveillance. Is this recommended?,No,N/A,LLM Only,breast cancer
+A patient with ER-positive breast cancer who completed 5 years of adjuvant tamoxifen should be counseled about extending endocrine therapy. Is this appropriate?,Yes,N/A,LLM Only,breast cancer
