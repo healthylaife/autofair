@@ -56,13 +56,14 @@ autofair/
 │   ├── generate_vignettes_variants.py
 │   └── reviewer_new_vignette_table.py
 │
-├── run_phi3_tables34.sh              # SLURM job for Phi-3 Tables 3 and 4
+├── run_phi3_tables34.sh              # SLURM job
 ├── frontend.py                       # Streamlit application
 ├── prompts.py                        # Prompt templates
-├── utils.py                          # Shared utilities
+├── utils.py                          # utilities
 ├── questionnaire.ipynb
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+
 
 
